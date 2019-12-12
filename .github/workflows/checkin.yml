@@ -36,4 +36,5 @@ jobs:
 
       - name: Checkin
         run: |
+          echo ${{ secrets.EMAIL }}
           sudo php ./run.php ${{ secrets.EMAIL }} ${{ secrets.PASSWORD }}
