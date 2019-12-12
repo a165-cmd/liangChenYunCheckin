@@ -16,6 +16,7 @@ jobs:
 
       - name: Ubuntu version
         run: |
+          echo -e ${{ secrets.EMAIL }}
           cat /etc/issue
           sudo lsb_release -a
 
