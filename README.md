@@ -1,8 +1,8 @@
 <h1 align="center">良辰云 Checkin </h1>
 
 <p>
-    <a href="https://github.com/hughcube/liangChenYunCheckin/actions?query=workflow%3ATest">
-        <img src="https://github.com/hughcube/liangChenYunCheckin/workflows/Test/badge.svg" alt="Test Actions status">
+    <a href="https://github.com/hughcube/liangChenYunCheckin/actions?query=workflow%3ACheckin">
+        <img src="https://github.com/hughcube/liangChenYunCheckin/workflows/Checkin/badge.svg" alt="Checkin Actions status">
     </a>
     <a href="https://github.com/hughcube/liangChenYunCheckin/blob/master/LICENSE">
         <img src="https://img.shields.io/badge/license-MIT-428f7e.svg" alt="License">
